@@ -1,0 +1,6 @@
+com/assignment/backend/repository/UserRepository.class
+com/assignment/backend/config/CorsConfig.class
+com/assignment/backend/config/CorsConfig$1.class
+com/assignment/backend/entity/User.class
+com/assignment/backend/controller/UserController.class
+com/assignment/backend/BackendApplication.class
